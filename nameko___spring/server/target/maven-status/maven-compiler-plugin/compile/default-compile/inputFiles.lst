@@ -1,0 +1,9 @@
+/home/alwin/nameko___spring/server/src/main/java/com/crm/CrmApplication.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/config/AppConfig.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/controller/AuthController.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/controller/CaptchaController.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/dto/AuthResponse.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/dto/UserInfo.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/model/RegisterRequest.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/model/SigninRequest.java
+/home/alwin/nameko___spring/server/src/main/java/com/crm/service/AuthService.java

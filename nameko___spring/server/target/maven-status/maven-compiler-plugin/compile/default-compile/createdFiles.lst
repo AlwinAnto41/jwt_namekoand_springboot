@@ -1,0 +1,9 @@
+com/crm/dto/AuthResponse.class
+com/crm/controller/AuthController.class
+com/crm/controller/CaptchaController.class
+com/crm/model/SigninRequest.class
+com/crm/CrmApplication.class
+com/crm/controller/CaptchaController$CaptchaResponse.class
+com/crm/config/AppConfig.class
+com/crm/model/RegisterRequest.class
+com/crm/service/AuthService.class
